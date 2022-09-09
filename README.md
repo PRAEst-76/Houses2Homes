@@ -9,11 +9,12 @@ This includes re-arranging and adding furniture and clutter, adding windows to h
 
 ### Requirements
 
-Daggerfall Unity 14.4 - [https://github.com/Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity)
+Daggerfall Unity 13.5+ - [https://github.com/Interkarma/daggerfall-unity](https://github.com/Interkarma/daggerfall-unity)
 
 ### Installation
 
-No .dfmod as of yet. To use these building overrides, copy .json files for buildings into your StreamingAssets/WorldData folder.
+No .dfmod as of yet. I will wait until I have more buildings done so it will  actually be of use to players.
+To use these building overrides, copy the .json files for the buildings into your StreamingAssets/WorldData folder.
 
 ### Volunteers Wanted
 
