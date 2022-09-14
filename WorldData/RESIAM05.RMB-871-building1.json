@@ -80,10 +80,10 @@
                     "ModelIdNum": 41002,
                     "ObjectType": 3,
                     "XPos": -72,
-                    "YPos": 2,
+                    "YPos": 1,
                     "ZPos": 192,
                     "XRotation": 0,
-                    "YRotation": -1018,
+                    "YRotation": -984,
                     "ZRotation": 0
                 },
                 {
@@ -221,9 +221,9 @@
                 {
                     "ModelId": "41032",
                     "ModelIdNum": 41032,
-                    "ObjectType": 0,
+                    "ObjectType": 3,
                     "XPos": 110,
-                    "YPos": -36,
+                    "YPos": 2,
                     "ZPos": 163,
                     "XRotation": 0,
                     "YRotation": -1536,
