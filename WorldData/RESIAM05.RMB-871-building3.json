@@ -472,17 +472,6 @@
                     "ZRotation": 0
                 },
                 {
-                    "ModelId": "1300",
-                    "ModelIdNum": 1300,
-                    "ObjectType": 13,
-                    "XPos": -252,
-                    "YPos": -1,
-                    "ZPos": -128,
-                    "XRotation": 0,
-                    "YRotation": 0,
-                    "ZRotation": 0
-                },
-                {
                     "ModelId": "4300",
                     "ModelIdNum": 4300,
                     "ObjectType": 13,
@@ -740,7 +729,7 @@
                     "ModelIdNum": 41005,
                     "ObjectType": 3,
                     "XPos": -98,
-                    "YPos": -18,
+                    "YPos": 1,
                     "ZPos": -105,
                     "XRotation": 0,
                     "YRotation": -995,
@@ -919,7 +908,7 @@
                     "YPos": 130,
                     "ZPos": 14,
                     "XRotation": 0,
-                    "YRotation": -72,
+                    "YRotation": -71,
                     "ZRotation": 0
                 },
                 {
@@ -948,9 +937,9 @@
                     "ModelId": "41833",
                     "ModelIdNum": 41833,
                     "ObjectType": 3,
-                    "XPos": -204,
+                    "XPos": -171,
                     "YPos": 131,
-                    "ZPos": 70,
+                    "ZPos": 63,
                     "XRotation": 0,
                     "YRotation": -1911,
                     "ZRotation": 0
@@ -980,9 +969,9 @@
                 {
                     "ModelId": "41051",
                     "ModelIdNum": 41051,
-                    "ObjectType": 0,
+                    "ObjectType": 3,
                     "XPos": -72,
-                    "YPos": -165,
+                    "YPos": 130,
                     "ZPos": -299,
                     "XRotation": 0,
                     "YRotation": 0,
@@ -1019,6 +1008,39 @@
                     "ZPos": -2,
                     "XRotation": 0,
                     "YRotation": -512,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41818",
+                    "ModelIdNum": 41818,
+                    "ObjectType": 3,
+                    "XPos": -6,
+                    "YPos": 182,
+                    "ZPos": 46,
+                    "XRotation": 0,
+                    "YRotation": -67,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "41822",
+                    "ModelIdNum": 41822,
+                    "ObjectType": 3,
+                    "XPos": -40,
+                    "YPos": 183,
+                    "ZPos": 50,
+                    "XRotation": 0,
+                    "YRotation": -130,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "1300",
+                    "ModelIdNum": 1300,
+                    "ObjectType": 13,
+                    "XPos": -254,
+                    "YPos": -2,
+                    "ZPos": -126,
+                    "XRotation": 0,
+                    "YRotation": 0,
                     "ZRotation": 0
                 }
             ],
@@ -1345,9 +1367,9 @@
                 },
                 {
                     "Position": 0,
-                    "XPos": -120,
-                    "YPos": -138,
-                    "ZPos": -284,
+                    "XPos": -118,
+                    "YPos": -129,
+                    "ZPos": -290,
                     "TextureArchive": 210,
                     "TextureRecord": 4,
                     "FactionID": 0,
@@ -1356,18 +1378,18 @@
                 {
                     "Position": 0,
                     "XPos": -109,
-                    "YPos": -130,
+                    "YPos": -129,
                     "ZPos": -265,
                     "TextureArchive": 209,
-                    "TextureRecord": 2,
+                    "TextureRecord": 1,
                     "FactionID": 0,
                     "Flags": 0
                 },
                 {
                     "Position": 0,
-                    "XPos": -9,
+                    "XPos": -13,
                     "YPos": -130,
-                    "ZPos": -264,
+                    "ZPos": -220,
                     "TextureArchive": 204,
                     "TextureRecord": 0,
                     "FactionID": 0,
@@ -1440,6 +1462,16 @@
                     "ZPos": 212,
                     "TextureArchive": 211,
                     "TextureRecord": 8,
+                    "FactionID": 0,
+                    "Flags": 0
+                },
+                {
+                    "Position": 0,
+                    "XPos": -242,
+                    "YPos": -130,
+                    "ZPos": 13,
+                    "TextureArchive": 205,
+                    "TextureRecord": 0,
                     "FactionID": 0,
                     "Flags": 0
                 }
