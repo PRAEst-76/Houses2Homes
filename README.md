@@ -13,7 +13,7 @@ Daggerfall Unity 13.5+ - [https://github.com/Interkarma/daggerfall-unity](https:
 
 ### Installation
 
-No .dfmod as of yet. I will wait until I have more buildings done so it will  actually be of use to players.
+Copy the .dfmod file from the zip to your StreamingAssets/Mods folder.
 To use these building overrides, copy the .json files for the buildings into your StreamingAssets/WorldData folder.
 
 ### Volunteers Wanted
