@@ -1,6 +1,6 @@
 {
     "ModTitle": "Houses2Homes",
-    "ModVersion": "0.2.6",
+    "ModVersion": "0.2.7",
     "ModAuthor": "PRAEst76",
     "ContactInfo": "@praest76",
     "DFUnity_Version": "0.13.5",
@@ -109,7 +109,24 @@
         "Assets/Game/Mods/Houses2Homes/Models/93101.blend",
         "Assets/Game/Mods/Houses2Homes/Textures/TEXTURE.138_1.png",
         "Assets/Game/Mods/Houses2Homes/Textures/TEXTURE.142_1.png",
-        "Assets/Game/Mods/Houses2Homes/Textures/TEXTURE.067_15.png"
+        "Assets/Game/Mods/Houses2Homes/Textures/TEXTURE.067_15.png",
+        "Assets/Game/Mods/Houses2Homes/Textures/56790_15-0.png",
+        "Assets/Game/Mods/Houses2Homes/Textures/56790_16-0.png",
+        "Assets/Game/Mods/Houses2Homes/Models/94102.blend",
+        "Assets/Game/Mods/Houses2Homes/Textures/56790_17-0.png",
+        "Assets/Game/Mods/Houses2Homes/Models/94103.blend",
+        "Assets/Game/Mods/Houses2Homes/Textures/map-Iliac_bay-hd.png",
+        "Assets/Game/Mods/Houses2Homes/Textures/frame-map.png",
+        "Assets/Game/Mods/Houses2Homes/Textures/map-Iliac_bay.png",
+        "Assets/Game/Mods/Houses2Homes/Textures/frame-map-hd.png",
+        "Assets/Game/Mods/Houses2Homes/Houses2Homes.dfmod.json",
+        "Assets/Game/Mods/Houses2Homes/WorldData/BANKAM02.RMB-1201-building14.json",
+        "Assets/Game/Mods/Houses2Homes/WorldData/BANKAM02.RMB-1201-building6.json",
+        "Assets/Game/Mods/Houses2Homes/Materials/56790_15-0.mat",
+        "Assets/Game/Mods/Houses2Homes/WorldData/BANKAM02.RMB-1201-building7.json",
+        "Assets/Game/Mods/Houses2Homes/WorldData/RESIAM06.RMB-228-building11.json",
+        "Assets/Game/Mods/Houses2Homes/WorldData/RESIAM06.RMB-228-building12.json",
+        "Assets/Game/Mods/Houses2Homes/WorldData/RESIAM06.RMB-228-building0.json"
     ],
     "Dependencies": [
         {
